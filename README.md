@@ -140,7 +140,7 @@ E-mail: rafael.lima@example.com
 Data de Nascimento: 09/02/1990
 ```
 <picture>  
-  <img alt="Dados encontrados por Nome" src="https://github.com/GabrielaBrazSantos/azurefrotiergirls/blob/main/azure-frontier-girls-images/saída%20de%20dados%201.JPG" heigth="100%">
+  <img alt="Dados encontrados por Nome" src="https://github.com/GabrielaBrazSantos/azurefrotiergirls/blob/main/azure-frontier-girls-images/saida%20de%20dados%203.JPG" heigth="100%">
 </picture>
 
 ### 🔹 Consulta por E-mail na base de dados JSON
@@ -150,7 +150,7 @@ Data de Nascimento: 09/02/1990
 **thiago.mendes@example.com**.
 3. Resposta esperada do Agent
 ```
-Obrigada por confirmar seus dados. 
+Parabéns! Seja bem vindo (a)! Obrigada por confirmar seus dados. 
 Nome: Thiago Mendes
 E-mail: thiago.mendes@example.com
 Data de Nascimento: 11/06/1986
