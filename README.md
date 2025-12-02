@@ -115,7 +115,7 @@ Dados não encontrados, por favor, informe Nome ou E-mail para confirmar seu cad
 ```
 1
 <picture>  
-  <img alt="Dados não encotrados" src="https://github.com/GabrielaBrazSantos/azurefrotiergirls/blob/main/azure-frontier-girls-images/entrada%20de%20dados%20do%20agente%201.JPG" heigth="100%">
+  <img alt="Dados não encotrados" src="https://github.com/GabrielaBrazSantos/azurefrotiergirls/blob/main/azure-frontier-girls-images/entrada%20de%20dados%20do%20agente%203.JPG" heigth="100%">
 </picture>
 2
 <picture>  
